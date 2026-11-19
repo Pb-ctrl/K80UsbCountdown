@@ -43,3 +43,5 @@ java -jar $signer verify --verbose build/K80UsbCountdown.apk
 请保管自己的密钥库。Android 要求覆盖安装的 APK 使用与已安装版本相同的签名。若设备安装了 Releases 中的版本，使用自己的密钥签名后需先卸载该版本，再安装自编译 APK 并重新启用 LSPosed 模块。
 
 by 屑屑521@酷安
+
+免责声明：仅供学习交流，请自行承担使用风险。
